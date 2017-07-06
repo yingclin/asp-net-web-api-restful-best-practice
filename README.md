@@ -12,10 +12,10 @@ ASP.NET Web API Best Practice 專案整合 - 客製篇
 
 ## 系列文章
 
-* [RESTFul API 最佳實踐](http://yingclin.github.io/restful-api-best-practice.html)
-* [ASP.NET Web API 最佳實踐專案整合 - 自帶篇](http://yingclin.github.io/asp-net-web-api-restful-best-practice-1.html)
-* [ASP.NET Web API 最佳實踐專案整合 - 套件篇](http://yingclin.github.io/asp-net-web-api-restful-best-practice-2.html)
-* [ASP.NET Web API 最佳實踐專案整合 - 客製篇](http://yingclin.github.io/asp-net-web-api-restful-best-practice-3.html)
+* [RESTFul API 最佳實踐](http://yingclin.github.io/2017/RESTFul-API-Best-Practice.html)
+* [ASP.NET Web API 最佳實踐專案整合 - 內建篇](http://yingclin.github.io/2017/asp-net-web-api-restful-best-practice-1.html)
+* [ASP.NET Web API 最佳實踐專案整合 - 套件篇](http://yingclin.github.io/2017/asp-net-web-api-restful-best-practice-2.html)
+* [ASP.NET Web API 最佳實踐專案整合 - 客製篇](http://yingclin.github.io/2017/asp-net-web-api-restful-best-practice-3.html)
 
 ## 版本資訊
 
